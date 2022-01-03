@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This is a simple project. Adding additional line , then more changes from feature branch too
+This is a simple project. Adding additional line , then more changes from feature branch too. Updating emergency fix after stashing
 
 ## Introduction
 
